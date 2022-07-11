@@ -72,7 +72,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #header h2 span {
   color: #fff;
-  border-bottom: 2px solid #1e90ff;
+  border-bottom: 2px solid #40c463;
   padding-bottom: 6px;
 }
 #header img {
@@ -97,7 +97,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 40px;
 }
 #header .social-links a:hover {
-  background: #1e90ff;
+  background: #40c463;
 }
 @media (max-width: 992px) {
   #header h1 {
@@ -526,7 +526,7 @@ section .container {
   background-color: rgba(255, 255, 255, 0.3);
 }
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #1e90ff;
+  background-color: #40c463;
 }
 
 /*--------------------------------------------------------------
@@ -580,7 +580,7 @@ section .container {
   left: -9px;
   top: 0;
   background: #1e90ff;
-  border: 2px solid #1e90ff;
+  border: 2px solid #40c463;
 }
 
 /*--------------------------------------------------------------
@@ -635,14 +635,14 @@ section .container {
   margin-bottom: 0;
 }
 .services .icon-box:hover {
-  background: #1e90ff;
-  border-color: #1e90ff;
+  background: #40c463;
+  border-color: #40c463;
 }
 .services .icon-box:hover .icon {
   background: #fff;
 }
 .services .icon-box:hover .icon i {
-  color: #1e90ff;
+  color: #40c463;
 }
 .services .icon-box:hover .icon::before {
   background: #3d3d3d;
